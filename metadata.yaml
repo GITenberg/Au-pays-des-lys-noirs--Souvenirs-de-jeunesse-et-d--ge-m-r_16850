@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6973'
     url: http://www.gutenberg.org/2009/agents/6973
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16850#Au-pays-des-lys-noirs--Souvenirs-de-jeunesse-et-d--ge-m-r
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-10-10'
 gutenberg_type: Text
