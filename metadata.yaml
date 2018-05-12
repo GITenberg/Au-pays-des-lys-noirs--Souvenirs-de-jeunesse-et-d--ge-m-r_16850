@@ -1,0 +1,27 @@
+_repo: Au-pays-des-lys-noirs--Souvenirs-de-jeunesse-et-d--ge-m-r_16850
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Retté, Adolphe
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '6973'
+    url: http://www.gutenberg.org/2009/agents/6973
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16850'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 20th century'
+- !lcc 'PQ'
+title: 'Au pays des lys noirs: Souvenirs de jeunesse et d''âge mûr'
+url: http://www.gutenberg.org/ebooks/16850
